@@ -50,20 +50,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAHOO7frgCAFCYGFZJYqXBuTg84nMmf2N4',
-    appId: '1:465306360004:android:dd1beb3a3ead4c3b145191',
-    messagingSenderId: '465306360004',
-    projectId: 'taxi-5e40f',
-    storageBucket: 'taxi-5e40f.appspot.com',
+
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBncgYxGZigsBOTRtduN6WVeZVmBKGISOQ',
-    appId: '1:465306360004:ios:bc7dc60046db4a76145191',
-    messagingSenderId: '465306360004',
-    projectId: 'taxi-5e40f',
-    storageBucket: 'taxi-5e40f.appspot.com',
-    iosClientId: '465306360004-e53fihs2rmgma143g42rccpkna1i8fle.apps.googleusercontent.com',
-    iosBundleId: 'com.example.taxiApp',
+
   );
 }
